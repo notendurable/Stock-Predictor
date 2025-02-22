@@ -1,9 +1,5 @@
 # Stock Price Prediction Using Different Regression Models
 
-## Overview
-
-This repository hosts a machine learning project focused on predicting stock prices using a variety of regression algorithms. The project utilizes historical stock price data and relevant features to build and evaluate regression models for accurate price prediction. The primary objective is to explore different regression techniques and assess their performance in predicting stock prices.
-
 
   ## Dataset
   [World Stock Prices Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating)
