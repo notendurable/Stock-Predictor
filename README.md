@@ -8,7 +8,7 @@ This repository hosts a machine learning project focused on predicting stock pri
   ## Dataset
   [World Stock Prices Dataset](https://www.kaggle.com/datasets/nelgiriyewithana/world-stock-prices-daily-updating)
 
-  The dataset used for this project includes the following features:
+  The dataset used for this project includes:
 - Date: The date of the stock price data.
 - Open: The opening price of the stock on that date.
 - High: The highest price the stock reached during the trading day.
